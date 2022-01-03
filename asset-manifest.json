@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/LabWeb/static/css/main.49458f17.chunk.css",
+    "main.js": "/LabWeb/static/js/main.a10b93e7.chunk.js",
+    "main.js.map": "/LabWeb/static/js/main.a10b93e7.chunk.js.map",
+    "runtime-main.js": "/LabWeb/static/js/runtime-main.c4c44d43.js",
+    "runtime-main.js.map": "/LabWeb/static/js/runtime-main.c4c44d43.js.map",
+    "static/css/2.8bd6500c.chunk.css": "/LabWeb/static/css/2.8bd6500c.chunk.css",
+    "static/js/2.4cecd104.chunk.js": "/LabWeb/static/js/2.4cecd104.chunk.js",
+    "static/js/2.4cecd104.chunk.js.map": "/LabWeb/static/js/2.4cecd104.chunk.js.map",
+    "static/js/3.81de15bc.chunk.js": "/LabWeb/static/js/3.81de15bc.chunk.js",
+    "static/js/3.81de15bc.chunk.js.map": "/LabWeb/static/js/3.81de15bc.chunk.js.map",
+    "static/js/4.b6ccb108.chunk.js": "/LabWeb/static/js/4.b6ccb108.chunk.js",
+    "static/js/4.b6ccb108.chunk.js.map": "/LabWeb/static/js/4.b6ccb108.chunk.js.map",
+    "index.html": "/LabWeb/index.html",
+    "static/css/2.8bd6500c.chunk.css.map": "/LabWeb/static/css/2.8bd6500c.chunk.css.map",
+    "static/css/main.49458f17.chunk.css.map": "/LabWeb/static/css/main.49458f17.chunk.css.map",
+    "static/js/2.4cecd104.chunk.js.LICENSE.txt": "/LabWeb/static/js/2.4cecd104.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/LabWeb/static/media/professor.478c7bc5.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c44d43.js",
+    "static/css/2.8bd6500c.chunk.css",
+    "static/js/2.4cecd104.chunk.js",
+    "static/css/main.49458f17.chunk.css",
+    "static/js/main.a10b93e7.chunk.js"
+  ]
+}
