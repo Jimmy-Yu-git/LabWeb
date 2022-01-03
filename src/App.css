@@ -449,8 +449,10 @@ p {
 #Activity .projects-header h1 {
 	margin-bottom: 50px;
 }
-#Activity .projects-header span {
-	color: rgb(94, 62, 68);
+#Activity .projects-header h2 {
+	margin-bottom: 0px;
+	color: rgb(236, 135, 68);
+	font-size: 2.3rem;
 }
 #Activity .all-Photo {
 	display: flex;
@@ -495,8 +497,8 @@ p {
 }
 #Activity .Photo-img {
 	flex-basis: 50%;
-	height: 600px;
-	width: 600px;
+	height: 800px;
+	width: 800px;
 	overflow: hidden;
 	position: relative;
 }
@@ -517,7 +519,14 @@ p {
 #Activity .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
-
+/* #Activity .page {
+	
+} */
+/* #Activity .pagination{
+	color: #d06565;
+	padding: 80px 160px;
+	font-size: 50px;
+} */
 /* End activity */
 /*START RESULT SECTION*/
 .image-viewer__container {
