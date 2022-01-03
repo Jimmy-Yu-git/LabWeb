@@ -380,13 +380,6 @@ p {
 	justify-content: center;
 	flex-direction: column;
 }
-#projects .all-Photo {
-	display: flex;
-	align-items: center;
-	width: 1200px;
-	justify-content: center;
-	flex-direction: column;
-}
 #projects .project-item {
 	display: flex;
 	align-items: center;
@@ -426,26 +419,6 @@ p {
 	overflow: hidden;
 	position: relative;
 }
-#projects .Photo-img {
-	flex-basis: 50%;
-	height: 600px;
-	width: 600px;
-	overflow: hidden;
-	position: relative;
-}
-#projects .Photo-img:after {
-	content: '';
-	position: absolute;
-	left: 0;
-	top: 0;
-	height: 100%;
-	width: 100%;
-	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-	opacity: 0.2;
-}
-#projects .Photo-img img {
-	transition: 0.3s ease transform;
-}
 #projects .project-img:after {
 	content: '';
 	position: absolute;
@@ -463,6 +436,89 @@ p {
 	transform: scale(1.1);
 }
 /* End Projects section */
+
+
+
+/* Start activity  */
+#Activity .projects {
+	flex-direction: column;
+	max-width: 2000px;
+	margin: 0 auto;
+	padding: 100px 0;
+}
+#Activity .projects-header h1 {
+	margin-bottom: 50px;
+}
+#Activity .projects-header span {
+	color: rgb(94, 62, 68);
+}
+#Activity .all-Photo {
+	display: flex;
+	align-items: center;
+	width: 1200px;
+	justify-content: center;
+	flex-direction: column;
+}
+
+#Activity .project-item {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	width: 80%;
+	margin: 20px auto;
+	overflow: hidden;
+	border-radius: 10px;
+}
+#Activity .project-info {
+	padding: 30px;
+	flex-basis: 50%;
+	height: 100%;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	color: white;
+}
+#Activity .project-info h1 {
+	font-size: 4rem;
+	font-weight: 500;
+}
+#Activity .project-info h2 {
+	font-size: 1.8rem;
+	font-weight: 500;
+	margin-top: 10px;
+}
+#Activity .project-info p {
+	color: white;
+}
+#Activity .Photo-img {
+	flex-basis: 50%;
+	height: 600px;
+	width: 600px;
+	overflow: hidden;
+	position: relative;
+}
+#Activity .Photo-img:after {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+	opacity: 0.2;
+}
+
+#Activity .Photo-img img {
+	transition: 0.3s ease transform;
+}
+#Activity .project-item:hover .project-img img {
+	transform: scale(1.1);
+}
+
+/* End activity */
 /*START RESULT SECTION*/
 .image-viewer__container {
 	height: 100%;

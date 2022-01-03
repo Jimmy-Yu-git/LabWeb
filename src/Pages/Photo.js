@@ -1,6 +1,6 @@
 const Photo = () => {
     return (
-        <section id="projects">
+        <section id="Activity">
             <div class="projects container">
                 <div class="projects-header">
                     <h1 class="section-title"> Activities <span></span></h1>

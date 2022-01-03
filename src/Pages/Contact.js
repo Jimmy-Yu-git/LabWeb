@@ -12,8 +12,8 @@ const Contact = () => {
                         </div>
                         <div class="contact-info">
                             <h1>Phone</h1>
-                            <h2>+886</h2>
-                            <h2>+886</h2>
+                            <h2>(02)33664499</h2>
+                            {/* <h2>(+886)0911903539</h2> */}
                         </div>
                     </div>
                     <div class="contact-item">
@@ -21,7 +21,7 @@ const Contact = () => {
                             src="https://inside-assets1.inside.com.tw/2014/08/gmail-app-icon.png?w=730&fit=max&q=80" /></div>
                         <div class="contact-info">
                             <h1>Email</h1>
-                            <h2>r09522316@ntu.edu.tw</h2>
+                            <h2>nemolaboratory539</h2>
                             <h2>@gmail.com</h2>
                         </div>
                     </div>

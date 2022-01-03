@@ -39,9 +39,11 @@ const AppBar = () => {
 				</h4 >
 			</Menu.Item>
 			<Menu.Item style={ numStyle }>
-				<h4  target="_blank" rel="noopener noreferrer">
-					CONTACT
-				</h4 >
+				
+				{/* <h4 target="_blank" rel="noopener noreferrer" >
+					<Link to = "#contact" > Activity </Link>
+				</h4 > */}
+				<a href="#Activity" data-after="Activity">Activity</a>
 			</Menu.Item>
 		</Menu>
 	);
