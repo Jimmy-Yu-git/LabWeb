@@ -51,7 +51,7 @@ const AppBar = () => {
 		<Menu>
 			<Menu.Item style={ numStyle }>
 				<h4  target="_blank" rel="noopener noreferrer" >
-					CURRENT MEMBERS
+					<Link to="/CURRENT MEMBERS">CURRENT MEMBERS</Link>
 				</h4 >
 			</Menu.Item>
 			<Menu.Item style={ numStyle }>
@@ -61,7 +61,7 @@ const AppBar = () => {
 			</Menu.Item>
 			<Menu.Item style={ numStyle }>
 				<h4  target="_blank" rel="noopener noreferrer" >
-					ALUMNI
+				<Link to="/Alumn">ALUMNI</Link>
 				</h4 >
 			</Menu.Item>
 		</Menu>

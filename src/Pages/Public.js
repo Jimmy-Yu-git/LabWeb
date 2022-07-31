@@ -13,6 +13,9 @@ const Public = () => {
                 <div class="col-down">
                     <h1>Publication</h1>
                     {/* <h1 class="section-title">2021 <span></span></h1> */}
+                    <p> - Li Xu, "Laser Patterning Technology Based on Nanosecond Pulsed Laser for Manufacturing Bifacial Perovskite Solar Modules" , International Journal of Precision Engineering and Manufacturing-Green Technology (2022), 11(10), 2022, 1-17. SCI</p>
+                    <a href='https://link.springer.com/article/10.1007/s40684-022-00421-3'>https://link.springer.com/article/10.1007/s40684-022-00421-3</a>
+                    {/* <h1 class="section-title">2021 <span></span></h1> */}
                     <p> - Li Xu, "Continuous Wave Laser Nanowelding Process of Ag Nanowires on Flexible Polymer Substrates" , Journal of Nanomaterials 2021, 11(10), 29 August 2021. SCI</p>
                     <a href='https://doi.org/10.3390/nano11102511'>https://doi.org/10.3390/nano11102511</a>
                     {/* <h1 class="section-title">2017 <span></span></h1> */}
@@ -27,7 +30,7 @@ const Public = () => {
                     {/* <h1 class="section-title">2006 <span></span></h1> */}
                     <p> - L. Xu, C. Grigoropoulos, T.-J. King, “High Performance Thin Silicon Film Transistors Fabricated By Double Laser Crystallization”, Journal of Applied Physics, vol. 99, p034508, 2006. SCI</p>
                     <a href='https://doi.org/10.1063/1.2171807'>https://doi.org/10.1063/1.2171807</a>
-                    
+
                 </div>
             </section>
             <Contact></Contact>
